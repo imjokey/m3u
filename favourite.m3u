@@ -12,28 +12,8 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/512px-CBS_News_logo_%282020%29.svg.png" group-title="News",CBS News National (720p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-
-#EXTINF:-1 tvg-id="CTiNews.tw" tvg-logo="https://i.imgur.com/u81tZtA.png" group-title="News",CTi News (中天新聞台)
-https://ythlsgo.onrender.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
-#EXTINF:-1 tvg-id="CTiVariety.tw" tvg-logo="https://i.imgur.com/tqsKObw.png" group-title="General",CTi Variety (中天綜合台) (720p)
-http://23.237.10.66:16372
-#EXTINF:-1 tvg-id="GlobalNews.tw" tvg-logo="https://i.imgur.com/oYUjEle.png" group-title="News",Global News
-http://ythlsgo.onrender.com/channel/UCp2f7tGJGN6R9Muxipem8Nw.m3u8
-#EXTINF:-1 tvg-id="FTVNews.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="News",FTV News (民視新聞台)
-https://ythlsgo.onrender.com/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MNews (鏡電視新聞台)
-https://ythlsgo.onrender.com/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
-#EXTINF:-1 tvg-id="SETiNews.tw" tvg-logo="https://i.imgur.com/NaOUWKf.png" group-title="News",SET iNews
-https://ythlsgo.onrender.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
-
-#EXTINF:-1 tvg-id="TTVNews.tw" tvg-logo="https://i.imgur.com/AfkK0gv.png" group-title="News",TTV News (台视新聞台)
-https://ythlsgo.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
-
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Culture;News",NHK World Japan (720p)
 http://203.162.235.41:13092
-#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="General",KBS World (720p)
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
 #EXTINF:-1 tvg-id="RakutenTVComedyMoviesUK.uk" tvg-logo="https://i.imgur.com/UrwA8Z3.png" group-title="Movies",Rakuten Comedy Movies UK (720p)
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -48,10 +28,17 @@ https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVSpotlightUK.uk" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="Movies",Rakuten Spotlight UK (720p)
 https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Shows UK (720p)
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AFVFamily.us" tvg-logo="https://i.imgur.com/dLSKBEn.png" group-title="Comedy",AFV Family
 https://futuretoday-afv-family-2-ie.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WXTV.tw" tvg-logo="https://i.imgur.com/s8tiTeb.png" group-title="Religious",唯心電視 (480p)
-https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+
+#EXTINF:-1 tvg-id="TheGuardian.uk" tvg-logo="https://i.imgur.com/o9AYq9V.png" group-title="Documentary;News",The Guardian (720p)
+https://0d0239e437124ddcb8090d815caf4013.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_TheGuardianChannel/playlist.m3u8
+#EXTINF:-1 tvg-id="Dateline247.us" tvg-logo="https://i.imgur.com/8mAJuut.png" group-title="Documentary",Dateline 24/7
+https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
+
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV
 https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTVAustralia.au" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Australia (270p)
@@ -70,3 +57,23 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-sa
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="BBCWorldNewsSouthAsia.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="News",BBC World News South Asia
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-id="CTiNews.tw" tvg-logo="https://i.imgur.com/u81tZtA.png" group-title="News",CTi News (中天新聞台)
+https://ythlsgo.onrender.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
+#EXTINF:-1 tvg-id="CTiVariety.tw" tvg-logo="https://i.imgur.com/tqsKObw.png" group-title="General",CTi Variety (中天綜合台) (720p)
+http://23.237.10.66:16372
+#EXTINF:-1 tvg-id="GlobalNews.tw" tvg-logo="https://i.imgur.com/oYUjEle.png" group-title="News",Global News
+http://ythlsgo.onrender.com/channel/UCp2f7tGJGN6R9Muxipem8Nw.m3u8
+#EXTINF:-1 tvg-id="FTVNews.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="News",FTV News (民視新聞台)
+https://ythlsgo.onrender.com/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MNews (鏡電視新聞台)
+https://ythlsgo.onrender.com/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
+#EXTINF:-1 tvg-id="SETiNews.tw" tvg-logo="https://i.imgur.com/NaOUWKf.png" group-title="News",SET iNews
+https://ythlsgo.onrender.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
+
+#EXTINF:-1 tvg-id="TTVNews.tw" tvg-logo="https://i.imgur.com/AfkK0gv.png" group-title="News",TTV News (台视新聞台)
+https://ythlsgo.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
+
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="General",KBS World (720p)
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
