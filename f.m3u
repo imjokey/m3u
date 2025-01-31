@@ -144,5 +144,15 @@ https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/C
 #EXTINF:-1 tvg-id="NickJrEast.us" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Kids",Nick Jr. East (720p)
 https://fl5.moveonjoy.com/NICK_JR/index.m3u8
 
+#EXTINF:-1 tvg-id="HGTV.au" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="Lifestyle",HGTV
+https://i.mjh.nz/.r/discovery-hgtv.m3u8
 
+#EXTINF:-1 tvg-id="Tastemade.au" tvg-logo="https://i.imgur.com/rR7CLzZ.png" group-title="Cooking",Tastemade Australia (1080p)
+https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV
+https://streamer1.nexgen.bz/MTV/index.m3u8
+
+#EXTINF:-1 tvg-id="MTVClassicEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="Music",MTV Classic East (720p)
+https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
 
