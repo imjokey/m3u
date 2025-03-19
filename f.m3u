@@ -39,9 +39,6 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="国际",ABC News Live
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 
-#EXTINF:-1 group-title="国际",Wion News
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-
 #EXTINF:-1 group-title="国际",TED Conference
 https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Ted Talks 
@@ -52,9 +49,6 @@ https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_ch
 
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/512px-CBS_News_logo_%282020%29.svg.png" group-title="News",CBS News National (720p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-
-#EXTINF:-1 tvg-id="TheGuardian.uk" tvg-logo="https://i.imgur.com/o9AYq9V.png" group-title="Documentary;News",The Guardian (720p)
-https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dateline247.us" tvg-logo="https://i.imgur.com/8mAJuut.png" group-title="Documentary",Dateline 24/7
 https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
@@ -80,35 +74,14 @@ https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 tvg-id="FoxSoul.us" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="Culture",Fox Soul (1080p)
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews English
-https://rakuten-euronews-1-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglishHD.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews English HD (1080p)
 http://stream01.vnet.am/Channel_119/mono.m3u8
-
-#EXTINF:-1 tvg-id="VoATV" tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="News",VOA TV
-https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GustoTV.ca" tvg-logo="https://i.imgur.com/swUX3hQ.png" group-title="Cooking",GustoTV
 https://gusto-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVTopMovies.uk" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Movies",Rakuten Top Movies UK (1080p)
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
 
-#EXTINF:-1 tvg-id="RealStories.uk" tvg-logo="https://i.imgur.com/PG15QKA.png" group-title="Documentary",Real Stories
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstoriesnz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Teletubbies.uk" tvg-logo="https://i.imgur.com/J9iWjWL.png" group-title="Kids",Teletubbies
-https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TinyPop.uk" tvg-logo="https://i.imgur.com/zCTf71x.png" group-title="Kids",Tiny Pop (1080p)
-https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WildEarth.uk" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="Undefined",WildEarth
-https://wildearth-xumo.amagi.tv/master.m3u8
-
-#EXTINF:-1 tvg-id="BBCOneYorkshireLincolnshire.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="General",BBC One Yorkshire & Lincolnshire (1080p)
-http://92.114.85.72:8000/play/a0mp
-#EXTINF:-1 tvg-id="BBCScotland.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/512px-BBC_Scotland_2021_%28channel%29.svg.png" group-title="General",BBC Scotland (1080p)
-http://92.114.85.72:8000/play/a0mf
 #EXTINF:-1 tvg-id="BBCTwo.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="General",BBC Two
 https://x.canlitvapp.com/u-bbc2/index.m3u8
 
@@ -193,15 +166,6 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-id="DaAi2.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="General",DaAi2 (大愛2) (720p)
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
-#EXTINF:-1 tvg-id="RealFamilies.au" tvg-logo="https://i.imgur.com/fV9UC2U.png" group-title="Family",Real Families (Australia) (720p)
-https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Rialto.nz" tvg-logo="https://i.imgur.com/wGw0sGu.png" group-title="Undefined",Rialto (1080p)
-https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SwamijiTVAustralian.at" tvg-logo="https://i.imgur.com/nrLcuzs.png" group-title="Outdoor",Swamiji TV Australian (1080p) [Not 24/7]
-https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ZooMoo.sg" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Kids",Zoo Moo (Australia) (1080p)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
@@ -229,12 +193,8 @@ https://c.mjh.nz/abc-wa.m3u8
 https://c.mjh.nz/abc-tv-plus.m3u8
 #EXTINF:-1 tvg-id="ABCTVNSW.au" tvg-logo="https://i.imgur.com/Ekjb7w8.png" group-title="General",ABC TV Sydney (720p)
 https://c.mjh.nz/abc-nsw.m3u8
-#EXTINF:-1 tvg-id="tickerNews.au" tvg-logo="https://i.imgur.com/z7M0QxV.png" group-title="News",Ticker News (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="BravoPlus1.nz" tvg-logo="https://i.imgur.com/RTv0g4L.png" group-title="Undefined",Bravo +1
-https://i.mjh.nz/.r/bravo-plus1.m3u8
-#EXTINF:-1 tvg-id="Channel200.nz" tvg-logo="https://i.imgur.com/gAebu4q.png" group-title="Entertainment",Channel 200 (540p)
-https://d1jlnqid3sfc6m.cloudfront.net/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+
+
 #EXTINF:-1 tvg-id="KordiaTV.nz" tvg-logo="https://i.imgur.com/BQ0qWzX.png" group-title="Undefined",Kordia TV (1080p)
 https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
 
