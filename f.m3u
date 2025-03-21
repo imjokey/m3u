@@ -16,6 +16,24 @@ https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English 2
 https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 
+#EXTINF:-1 tvg-id="CloudflareTV.us" tvg-logo="https://blog-cloudflare-com-assets.storage.googleapis.com/2020/06/twitter-1-1.png" group-title="Education",Cloudflare TV (720p)
+https://cloudflare.tv/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="Kids",Moonbug Kids (1080p)
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZooMoo.sg" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Kids",Zoo Moo (Australia) (1080p)
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Revry.us" tvg-logo="https://i.imgur.com/XuTUaq4.png" group-title="Lifestyle",Revry
+https://revry-revry-3-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Revry2.us" tvg-logo="https://i.imgur.com/bKpligT.png" group-title="Lifestyle",Revry 2
+https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RevryHer.us" tvg-logo="https://www.washingtonblade.com/content/files/2020/01/QUEER_STREAMING_SERVICE_ADOPTS-LGBT_TOKEN_FEATURED_WB_10012020-e1578680670538.jpeg" group-title="Movies",Revry Her
+https://linear-73.frequency.stream/mt/brightcove/73/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RevryNews.us" tvg-logo="https://i.imgur.com/lKMYCkb.png" group-title="Lifestyle",Revry News
+https://linear-44.frequency.stream/mt/brightcove/44/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RevryQueer.us" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc81016d98cab623846a4f3" group-title="Lifestyle",Revry Queer (720p)
+https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="Undefined",Taiwan Plus TV (1080p)
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
@@ -97,6 +115,9 @@ http://178.219.128.68:64888/BBCLIFEHD
 #EXTINF:-1 tvg-id="BBCEarth.pl" tvg-logo="https://i.imgur.com/z4rLIVW.png" group-title="Documentary",BBC Earth (1080p)
 http://109.233.89.170/BBC_Earth_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="VoATV.us" tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="News",VOA (Voice of America)
+https://streams2.sofast.tv/voa-eng/playlist.m3u8
+
 #EXTINF:-1 tvg-id="GoUSATV.us" tvg-logo="https://i.imgur.com/x90ALip.png" group-title="Travel",Go USA
 https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
 
@@ -125,8 +146,6 @@ https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 
 #EXTINF:-1 group-title="国际",Food
 https://food-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Ondemand China
-https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KartoonChannel.us" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="Kids",Kartoon Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
@@ -137,9 +156,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 
 #EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle",Fashion TV
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GlobalFashionChannel.us" tvg-logo="https://i.imgur.com/s4eGYEP.jpg" group-title="Lifestyle",Global Fashion Channel (1080p)
-https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJunior.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Kids",Disney Junior Canada (540p)
 https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
@@ -204,6 +220,4 @@ https://c.mjh.nz/abc-tv-plus.m3u8
 https://c.mjh.nz/abc-nsw.m3u8
 
 
-#EXTINF:-1 tvg-id="KordiaTV.nz" tvg-logo="https://i.imgur.com/BQ0qWzX.png" group-title="Undefined",Kordia TV (1080p)
-https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
 
